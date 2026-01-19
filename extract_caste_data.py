@@ -3,6 +3,8 @@ from openpyxl import load_workbook
 from openpyxl.styles import Font, Alignment, Border, Side
 from openpyxl.utils import get_column_letter
 
+#my File paths
+# -----------------------------
 INPUT_EXCEL = "C:/Users/NIC/OneDrive/Desktop/CasteCensusData/caste.xlsx"
 OUTPUT_DIR = "C:/Users/NIC/OneDrive/Desktop/CasteCensusData/Kashichak/"
 
